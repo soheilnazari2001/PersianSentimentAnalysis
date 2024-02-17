@@ -1,1 +1,2 @@
-# PersianSentimentAnalysis
+# Persian Sentiment Analysis
+In this project, I created a sentiment analysis model using comments from two major Persian websites: Snappfood, for food delivery, and Digikala, an online shopping platform. The work involved training a neural network to understand user sentiments from Snappfood and then fine-tuning it with Digikala comments to address the challenge of changing contexts. This project highlights my skills in machine learning and natural language processing, demonstrating my ability to manage complex data and adapt models to new domains.
